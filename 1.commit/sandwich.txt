@@ -1,5 +1,6 @@
 pan
 mayonesa
+ketchup
 lechuga
 tomate
 queso
